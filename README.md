@@ -1,7 +1,9 @@
+# Heya
+
 - 👋 Hi, I’m @mike-ledkov
 - 👀 I’m interested in music and IT
 - 🌱 I’m currently learning web development (JS, React, NodeJS)
-- 💞️ I’m looking to collaborate on ...
+<!--- 💞️ I’m looking to collaborate on ... -->
 - 📫 You can reach me here: mledkov@gmail.com 
 
 <!---
