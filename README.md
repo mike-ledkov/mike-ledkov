@@ -9,7 +9,4 @@
 - My [Udemy](https://www.udemy.com/user/mikhail-ledkov/) profile
 <!--- 💞️ I’m looking to collaborate on ... -->
 
-<!---
-mike-ledkov/mike-ledkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Demo header
