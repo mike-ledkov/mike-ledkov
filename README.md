@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @mike-ledkov
 - 👀 I’m interested in English, IT and music
 - 🌱 I’m currently learning web development ([JS](https://www.udemy.com/share/101uNA3@_pZhvl7l9ITUMSXnntqUAQZlax6pwwJP6R-5TRdsd7Yr83u9yzi5KzRIewvX01Li/), [React](https://www.udemy.com/share/101uUA3@r0uAFIHrEi01ll-OqqkGS9P2PON4j4_SnzdzplDRNIItgmEqmURJ5YX_WTkP-txi/), and [NodeJS](https://www.udemy.com/share/104VV03@ASwomqq-KtVzRhjE5-PMSNBkU-TNRQ1DWR1UXMvw6IWtvXJjmEnCSAO7xECsajhy/))
-  - My current goal is to finish the vanilla JS course by 
+  - My current goal is to finish the vanilla JS course by 2023-04-01 
 
 <!-- 
   - 🌱 I would also like to learn 
