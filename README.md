@@ -1,4 +1,4 @@
-# Hey
+# Hey!
 
 - 👋 Hi, I’m @mike-ledkov
 - 👀 I’m interested in English, IT and music
